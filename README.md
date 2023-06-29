@@ -1,0 +1,1 @@
+In this project I took data from my LinkedIn Profile and analyzed various parameters like when the impressions, engagements are highest, people from which domain follows me the most and many more things.
